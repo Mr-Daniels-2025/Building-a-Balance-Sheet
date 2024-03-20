@@ -120,3 +120,7 @@ tr.total td {
   padding: 0 0.25rem;
 }
 
+tr.total td:nth-of-type(3) {
+  padding-right: 0.5rem;
+}
+
